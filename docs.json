@@ -8,9 +8,6 @@
     "light": "https://console.relyr.io/_next/image?url=%2Fimages%2Frelyr-mini.png&w=64&q=75",
     "dark": "https://console.relyr.io/_next/image?url=%2Fimages%2Frelyr-mini.png&w=64&q=75"
   },
-  "header": {
-    "showGitHubCard": false
-  },
   "sidebar": [
     {
       "group": "Getting Started",
