@@ -1,4 +1,7 @@
 {
   "name": "Relyr",
   "description": "Relyr documentations."
+  "theme": {
+    "primary": "#ab47bc"
+  }
 }
