@@ -4,6 +4,9 @@
   "theme": {
     "primary": "#ab47bc"
   },
+  "header": {
+    "showGitHubCard": false
+  },
   "logo": {
     "light": "https://console.relyr.io/_next/image?url=%2Fimages%2Frelyr-mini.png&w=64&q=75",
     "dark": "https://console.relyr.io/_next/image?url=%2Fimages%2Frelyr-mini.png&w=64&q=75"
