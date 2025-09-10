@@ -1,0 +1,4 @@
+site_name: Relyr
+site_url: https://relyr.io/docs
+theme:
+  name: material
